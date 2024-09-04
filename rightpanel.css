@@ -1,0 +1,40 @@
+.rightBody {
+    background-color: rgb(8, 96, 193);
+    background: linear-gradient(
+      90deg,
+      rgba(8, 96, 193, 1) 0%,
+      rgba(22, 139, 179, 1) 35%,
+      rgba(22, 179, 174, 1) 100%
+    );
+    width: 50%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  h3 {
+    margin-top: 20px;
+    font-size: 30px;
+  }
+  
+  .logo {
+    display: flex;
+    width: 30%;
+    height: 10%;
+    margin-top: 27%;
+  }
+  
+  .rightContent {
+    display: flex;
+    margin-top: -18%;
+    margin-bottom: -15%;
+  }
+  .rightBody h3 {
+    height: 15vh;
+  }
+  .rightBody label {
+    height: 10vh;
+  }
+  

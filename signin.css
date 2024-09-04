@@ -1,0 +1,33 @@
+.signLeft {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    gap: 20px;
+  }
+  .leftContent {
+    margin-top: -18%;
+    margin-bottom: -15%;
+  }
+  .signLeft input {
+    width: 500px;
+    height: 180px;
+  }
+  button {
+    width: 510px;
+    height: 180px;
+    background-color: rgb(0, 69, 255);
+    background: linear-gradient(
+      90deg,
+      rgba(0, 69, 255, 1) 0%,
+      rgba(0, 69, 255, 1) 35%,
+      rgba(0, 69, 255, 1) 100%
+    );
+    color: white;
+  }
+  
+  .sign {
+    margin-right: 55%;
+  }
+  
